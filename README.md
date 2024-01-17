@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Kristina
 #### I am web/front-end developer
-<img src="https://www.pngmart.com/image/319778/png/319777" alt="альтернативный текст">
+<img src="https://www.pngmart.com/files/21/Tech-PNG-Isolated-HD.png" alt="альтернативный текст">
 
 I am form Almaty. I was learning HTML, CSS, JS, React on Yandex.Practicum. Now I am looking for a job.
 
