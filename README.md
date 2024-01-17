@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Kristina
+### Hi there, my name is Kristina
 #### I am web/front-end developer
 <img src="https://www.pngmart.com/files/21/Tech-PNG-Isolated-HD.png" alt="альтернативный текст">
 
