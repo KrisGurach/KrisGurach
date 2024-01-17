@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Kristina
 #### I am web/front-end developer
-![Описание](https://catherineasquithgallery.com/uploads/posts/2021-02/1613263314_115-p-sinii-fon-tekhno-159.jpg)
+![Описание](https://www.pngmart.com/image/319778/png/319777)
 
 I am form Almaty. I was learning HTML, CSS, JS, React on Yandex.Practicum. Now I am looking for a job.
 
