@@ -1,10 +1,10 @@
 ### Hi there, my name is Kristina
-#### I am web/front-end developer
+#### I'm web/front-end developer
 <img src="https://www.pngmart.com/files/21/Tech-PNG-Isolated-HD.png" alt="альтернативный текст">
 
-I am form Almaty. I was learning HTML, CSS, JS, React on Yandex.Practicum. Now I am looking for a job.
+I live form Almaty. Now I'm looking for a job.
 
-Skills:  REACT / JS / HTML / CSS
+Skills: HTML5 / CSS3 / SASS / JS / REACT / MongoDB / Express.js
 
 
 
