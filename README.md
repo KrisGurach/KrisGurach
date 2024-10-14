@@ -2,7 +2,7 @@
 #### I'm web/front-end developer
 <img src="https://www.pngmart.com/files/21/Tech-PNG-Isolated-HD.png" alt="альтернативный текст">
 
-I live form Almaty. Now I'm looking for a job.
+I live in Novosibirsk. Now I'm looking for a job.
 
 Skills: HTML5 / CSS3 / SASS / JS / REACT / MongoDB / Express.js
 
